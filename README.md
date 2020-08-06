@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Computer Vision.
 - 🌱 I’m currently learning RNN.
-- 👯 I’m looking to collaborate on Twitter.
 - 🤔 I’m looking for help with ML stuff.
 - 💬 Ask me about Machine Learning.
 - 📫 How to reach me: [Twitter-@Rocker_Ritesh](https://twitter.com/Rocker_Ritesh) 
