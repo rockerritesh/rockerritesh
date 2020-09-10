@@ -3,11 +3,10 @@
 
 
 - 🔭 I’m currently working on Computer Vision.
-- 🌱 I’m currently learning RNN.
-- 🤔 I’m looking for help with ML stuff.
+- 🌱 Planting GANs seed.
+- 🤔 I’m looking for help on #probability.
 - 💬 Ask me about Machine Learning.
 - 📫 How to reach me: [Twitter-@Rocker_Ritesh](https://twitter.com/Rocker_Ritesh) 
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: Read 100% understand <10%(without Music)
 
 
