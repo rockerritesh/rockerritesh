@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Computer Vision.
+- 🔭 I’m currently working on CV and microcontroller.
 - 🌱 Planting GANs seed.
 - 🤔 I’m looking for help on #probability.
 - 💬 Ask me about Machine Learning.
