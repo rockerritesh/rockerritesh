@@ -2,11 +2,7 @@
 
 
 
-- 🔭 I’m currently working on CV and microcontroller.
 - 🌱 Planting GANs seed.
-- 🤔 I’m looking for help on #probability.
-- 💬 Ask me about Machine Learning.
-- 📫 How to reach me: [Twitter-@Rocker_Ritesh](https://twitter.com/Rocker_Ritesh) 
 - ⚡ Fun fact: Read 100% understand <10%(without Music)
 
 
