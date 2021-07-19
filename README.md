@@ -1,4 +1,4 @@
-### HELLO! I AM ROCKER RITESH([sumit yadav](https://sumityadav.com.np) 👋
+### HELLO! I AM ROCKER RITESH([Sumit Yadav](https://sumityadav.com.np)) 👋
 
 
 
