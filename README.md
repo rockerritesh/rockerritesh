@@ -1,8 +1,9 @@
-### HELLO! I AM ROCKER RITESH(sumit yadav) 👋
+### HELLO! I AM ROCKER RITESH([sumit yadav](https://sumityadav.com.np) 👋
 
 
 
 - 🌱 Planting GANs seed.
+- 👋 Help me on learning SDL2.
 - ⚡ Fun fact: Read 100% understand <10%(without Music)
 
 
