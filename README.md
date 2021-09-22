@@ -3,7 +3,7 @@
 
 
 - 🌱 Planting GANs seed.
-- 👋 Help me on learning SDL2.
+- 👋 Playimg with Images.
 - ⚡ Fun fact: Read 100% understand <10%(without Music)
 
 
