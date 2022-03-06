@@ -13,4 +13,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rockerritesh&theme=jolly">
  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rockerritesh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
- 
+ ![](https://komarev.com/ghpvc/?username=rockerritesh&label=PROFILE+VIEWS)
