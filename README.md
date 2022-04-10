@@ -14,3 +14,6 @@
  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rockerritesh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
  ![](https://komarev.com/ghpvc/?username=rockerritesh&label=PROFILE+VIEWS)
+
+
+<a href="https://github.com/rockerritesh/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rockerritesh&theme=material-palenight" /> 
