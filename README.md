@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Planting GANs seed.
+- 🌱 Planting POLICYs(RL).
 - 👋 Playimg with Images.
 - ⚡ Fun fact: Read 100% understand <10%(without Music)
 
