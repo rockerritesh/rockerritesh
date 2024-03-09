@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Read 100% understand <10%(without Music)
 
 
-![Rocker's github stats](https://github-readme-stats.vercel.app/api?username=rockerritesh&show_icons=true&hide_border=true) 
+<!-- ![Rocker's github stats](https://github-readme-stats.vercel.app/api?username=rockerritesh&show_icons=true&hide_border=true) -->
 
  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rockerritesh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
