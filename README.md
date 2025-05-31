@@ -17,5 +17,6 @@
  ![](https://komarev.com/ghpvc/?username=rockerritesh&label=PROFILE+VIEWS)
 
  ## List of Links
- [bio-llm](llm.sumityadav.com.np)
- [Blogs/Canvas](https://blog.sumityadav.com.np)
+ 
+ - 🔖 [bio-llm](llm.sumityadav.com.np) : On browser Semantic RAG. 
+ - 🎋 [Blogs/Canvas](https://blog.sumityadav.com.np) : Canvas and Blogs.
