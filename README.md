@@ -19,7 +19,8 @@
 
  ## Some of Links
 
- - 🔖 [bio-llm](llm.sumityadav.com.np): On browser Semantic RAG. 
+ - 🔖 [bio-llm](llm.sumityadav.com.np): On browser Semantic RAG.
+ - 📖 [Google-Scholar](https://scholar.google.com/citations?user=ag74ytsAAAAJ&hl=en): Google scholar account link.
  - 🎋 [Blogs/Canvas](https://blog.sumityadav.com.np): Canvas and Blogs.
  - 🧒 [vibe-coder](https://rockerritesh.github.io/vibe_coder/): The Vibe Codder Agent is designed for users who want to create projects with minimal or no coding.
  - 🤖 [agents.ai](https://rockerritesh.github.io/agents.ai/): An intelligent multi-agent system that automatically selects the best agent and tool sequence to handle user queries.
