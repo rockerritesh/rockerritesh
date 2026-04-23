@@ -14,7 +14,7 @@ The thesis: **memory without identity is unauditable; identity without memory is
 
 | Repo | What it is | Stack |
 |---|---|---|
-| **[aztp](https://github.com/rockerritesh/aztp)** | Zero-trust identity, policy, mTLS, and audit for AI agents. SPIFFE-based X.509 certs, OPA policies, audit trail. "Istio for agents." | Go · Python SDK · React dashboard |
+| **[agentguard](https://github.com/rockerritesh/agentguard)** | AZTP — Agent Zero Trust Protocol. Zero-trust identity, policy, mTLS, and audit for AI agents. SPIFFE-based X.509 certs, OPA policies, audit trail. "Istio for agents." | Go · Python SDK · React dashboard |
 | **[sumit-server](https://huggingface.co/spaces/rockerritesh/sumit-server)** | Audited memory infrastructure for agents — every read / write has a transaction trail. Deployed on HF Spaces with 18 MCP tools. | Python · Qdrant · MCP |
 | **[spiffe-core](https://github.com/rockerritesh/spiffe-core)** | Minimal SPIFFE implementation (Workload API, trust bundles, attestation) — the identity substrate underneath AZTP. | Python · FastAPI |
 | **[trat-multi-agent](https://github.com/rockerritesh/trat-multi-agent)** | Reference implementation of IETF Transaction Tokens applied to multi-agent AI workflows. TxTS + gateway + agent pipeline. | Python · TypeScript |
