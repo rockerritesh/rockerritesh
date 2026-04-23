@@ -1,27 +1,36 @@
-### HELLO! I AM ROCKER RITESH([Sumit Yadav](https://sumityadav.com.np)) 👋
-```https://bio.link/rockerritesh```
-```tatva.sumityadav.com.np```
+# Hi, I'm Sumit Yadav 👋
 
-💌 - `echo 'cm9ja2Vycml0ZXNoNEBnbWFpbC5jb20K' | base64 -d `
+I'm building the **trust layer for AI agents** — identity, audit, and memory infrastructure that enterprises can actually deploy.
 
+💻  Computer Engineering · I.O.E. Pulchowk Campus, Nepal
+🌐  [sumityadav.com.np](https://sumityadav.com.np) · [Google Scholar](https://scholar.google.com/citations?user=ag74ytsAAAAJ&hl=en) · X [@Rocker_Ritesh](https://x.com/Rocker_Ritesh)
+💌  `echo 'cm9ja2Vycml0ZXNoNEBnbWFpbC5jb20K' | base64 -d`
 
+---
 
-- 🌱 Planting POLICYs(RL).
-- 👋 Playimg with Images.
-- ⚡ Fun fact: Read 100% understand <10%(without Music)
+## 🔭 What I'm working on
 
+The thesis: **memory without identity is unauditable; identity without memory is blind.** The trust layer for AI agents is both — and almost nobody is building them as one system.
 
-<!-- ![Rocker's github stats](https://github-readme-stats.vercel.app/api?username=rockerritesh&show_icons=true&hide_border=true) -->
+| Repo | What it is | Stack |
+|---|---|---|
+| **[aztp](https://github.com/rockerritesh/aztp)** | Zero-trust identity, policy, mTLS, and audit for AI agents. SPIFFE-based X.509 certs, OPA policies, audit trail. "Istio for agents." | Go · Python SDK · React dashboard |
+| **[sumit-server](https://huggingface.co/spaces/rockerritesh/sumit-server)** | Audited memory infrastructure for agents — every read / write has a transaction trail. Deployed on HF Spaces with 18 MCP tools. | Python · Qdrant · MCP |
+| **[spiffe-core](https://github.com/rockerritesh/spiffe-core)** | Minimal SPIFFE implementation (Workload API, trust bundles, attestation) — the identity substrate underneath AZTP. | Python · FastAPI |
+| **[trat-multi-agent](https://github.com/rockerritesh/trat-multi-agent)** | Reference implementation of IETF Transaction Tokens applied to multi-agent AI workflows. TxTS + gateway + agent pipeline. | Python · TypeScript |
 
- 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rockerritesh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
- ![](https://komarev.com/ghpvc/?username=rockerritesh&label=PROFILE+VIEWS)
+Cross-linked so each repo tells the others' story. Open to conversations with investors and design partners.
 
- ## Some of Links
+---
 
- - 🔖 [bio-llm](llm.sumityadav.com.np): On browser Semantic RAG.
- - 📖 [Google-Scholar](https://scholar.google.com/citations?user=ag74ytsAAAAJ&hl=en): Google scholar account link.
- - 🎋 [Blogs/Canvas](https://blog.sumityadav.com.np): Canvas and Blogs.
- - 🧒 [vibe-coder](https://rockerritesh.github.io/vibe_coder/): The Vibe Codder Agent is designed for users who want to create projects with minimal or no coding.
- - 🤖 [agents.ai](https://rockerritesh.github.io/agents.ai/): An intelligent multi-agent system that automatically selects the best agent and tool sequence to handle user queries.
- -  🎋 [Tatva](https://tatva.sumityadav.com.np): Thought and Things.
+## 🧠 Other active work
+
+- 🧪 [**Tatva**](https://tatva.sumityadav.com.np) — dashboard for the federated memory MCP server (transaction trail, access stats, version history).
+- 📝 [**Blogs / Canvas**](https://blog.sumityadav.com.np) — writing on agent trust, memory, and identity.
+- 🤖 [**agents.ai**](https://rockerritesh.github.io/agents.ai/) — multi-agent orchestration playground using semantic agent selection.
+- 🔖 [**bio-llm**](https://llm.sumityadav.com.np) — in-browser semantic RAG experiment.
+- 🧒 [**vibe-coder**](https://rockerritesh.github.io/vibe_coder/) — agent that scaffolds Streamlit + FastAPI projects from natural-language prompts.
+
+⚡  *Fun fact: read 100%, understand <10% (without music).*
+
+![](https://komarev.com/ghpvc/?username=rockerritesh&label=PROFILE+VIEWS)
