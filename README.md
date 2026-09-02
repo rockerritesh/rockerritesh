@@ -26,7 +26,7 @@ Each repo cross-links the others so any of them walks you through the whole stor
 ## 🧠 Other active work
 
 - 🧪 [**Tatva**](https://tatva.sumityadav.com.np) — the dashboard for sumit-server: transaction trail, access stats, memory versioning.
-- 📝 [**Blogs / Canvas**](https://blog.sumityadav.com.np) — thinking-in-public on agent trust, memory, and identity.
+- 📝 [**Blogs / Canvas**](https://sumityadav.com.np/blog) — thinking-in-public on agent trust, memory, and identity.
 - 🤖 [**agents.ai**](https://rockerritesh.github.io/agents.ai/) — multi-agent orchestration playground with semantic agent selection.
 - 🔖 [**bio-llm**](https://llm.sumityadav.com.np) — in-browser semantic RAG experiment.
 - 🧒 [**vibe-coder**](https://rockerritesh.github.io/vibe_coder/) — an agent that scaffolds Streamlit + FastAPI projects from plain English.
